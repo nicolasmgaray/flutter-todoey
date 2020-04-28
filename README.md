@@ -1,4 +1,7 @@
-# Todoey
+# Todoey 📋
+
+![STATUS](https://img.shields.io/github/deployments/nicolasmgaray/flutter-todoey/production?label=STATUS&logo=zeit&style=for-the-badge)
+![COMMIT](https://img.shields.io/github/last-commit/nicolasmgaray/flutter-todoey?logo=github&style=for-the-badge)
 
 To-Do App made with Flutter
 
